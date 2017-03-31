@@ -12,6 +12,7 @@ a {
 
 div.header {
   background-image: URL("the-flatiron-building.png");
+  background-position: center;
 }
 
 h1 {
@@ -30,6 +31,7 @@ h3 {
 h3.NYC {
   color: white;
   background-image: URL("the-flatiron-building.png");
+  background-position: center;
 }
 
 p {
